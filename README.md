@@ -1,9 +1,9 @@
 MTCFSS Roadmap
 ===
-[![Stories in Workshops](https://waffle.io/smidaharoun/roadmap.svg?label=training-proposal&title=Workshops)](http://waffle.io/mtcfss/roadmap)
-[![Stories in Challenges](https://waffle.io/smidaharoun/roadmap.svg?label=challenges-proposal&title=Challenges)](http://waffle.io/mtcfss/roadmap)
-[![Stories in Events](https://waffle.io/smidaharoun/roadmap.svg?label=events-proposal&title=Events)](http://waffle.io/mtcfss/roadmap)
-[![Stories in Ready](https://waffle.io/smidaharoun/roadmap.svg?label=ready&title=Ready)](http://waffle.io/mtcfss/roadmap)
+[![Stories in Workshops](https://waffle.io/smidaharoun/roadmap.svg?label=training-proposal&title=Workshops)](https://waffle.io/smidaharoun/roadmap)
+[![Stories in Challenges](https://waffle.io/smidaharoun/roadmap.svg?label=challenges-proposal&title=Challenges)](https://waffle.io/smidaharoun/roadmap)
+[![Stories in Events](https://waffle.io/smidaharoun/roadmap.svg?label=events-proposal&title=Events)](https://waffle.io/smidaharoun/roadmap)
+[![Stories in Ready](https://waffle.io/smidaharoun/roadmap.svg?label=ready&title=Ready)](https://waffle.io/smidaharoun/roadmap)
 
 MTCFSS Roadmap (events, workshops, challenges) using Kanban/Issues model.
 All issues are managed on [this waffle board](https://waffle.io/smidaharoun/roadmap).
