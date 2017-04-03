@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/smidaharoun/roadmap.png?label=ready&title=Ready)](https://waffle.io/smidaharoun/roadmap)
 MTCFSS Roadmap
 ===
 [![Stories in Workshops](https://waffle.io/smidaharoun/roadmap.svg?label=training-proposal&title=Workshops)](https://waffle.io/smidaharoun/roadmap)
